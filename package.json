@@ -8,6 +8,10 @@
     "email": "eugen.hildt@gmail.com"
   },
   "license": "MIT",
+   "engines": {
+    "node": "19.6.1",
+    "npm": "9.4.0"
+  },
   "bugs": {
     "email": "eugen.hildt@gmail.com"
   },
